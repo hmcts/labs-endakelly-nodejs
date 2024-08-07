@@ -4,7 +4,7 @@
 
 def type = "nodejs"
 def product = "labs"
-def component = "endakelly"
+def component = "endakelly-nodejs"
 
 // docs:
 // 1. https://github.com/hmcts/cnp-jenkins-library

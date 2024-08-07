@@ -1,4 +1,4 @@
-# labs-endakelly
+# labs-endakelly-nodejs
 
 Deploying a node.js application
 

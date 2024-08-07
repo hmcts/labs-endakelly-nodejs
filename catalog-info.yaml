@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: 'labs-endakelly'
+  name: 'labs-endakelly-nodejs'
   description: "Deploying a node.js application"
   annotations:
     # This must match folder-name/job-name in Jenkins.
-    jenkins.io/job-full-name: cft:HMCTS_labs/labs-endakelly-nodejs
-    github.com/project-slug: 'hmcts/labs-endakelly-nodejs'
+    jenkins.io/job-full-name: cft:HMCTS_labs/labs-endakelly-nodejs-nodejs
+    github.com/project-slug: 'hmcts/labs-endakelly-nodejs-nodejs'
   tags:
     - nodejs
   links:
